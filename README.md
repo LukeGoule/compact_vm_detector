@@ -3,4 +3,4 @@
 
 # Screenshot
 Running on a Windows 10 VM using Oracle VM VirtualBox
-[!](https://i.imgur.com/EXiRNfH.png)
+![](https://i.imgur.com/EXiRNfH.png)
